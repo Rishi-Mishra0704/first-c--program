@@ -19,9 +19,14 @@
             int num1 = 23;
             string name = "Rishi";
             double num2 = 2.3;
+            bool adult = false;
+            char symbol = 'a';
+
             Console.WriteLine(num1);
             Console.WriteLine(name);
             Console.WriteLine(num2);
+            Console.WriteLine(symbol);
+            Console.WriteLine(num1);
 
 
             Console.ReadKey();
